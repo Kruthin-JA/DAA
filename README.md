@@ -7,6 +7,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Kruthin-JA/DAA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0051-n-queens](https://github.com/Kruthin-JA/DAA/tree/master/0051-n-queens) |
 | [0162-find-peak-element](https://github.com/Kruthin-JA/DAA/tree/master/0162-find-peak-element) |
+| [0179-largest-number](https://github.com/Kruthin-JA/DAA/tree/master/0179-largest-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -40,6 +41,7 @@
 | [0010-regular-expression-matching](https://github.com/Kruthin-JA/DAA/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/Kruthin-JA/DAA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kruthin-JA/DAA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0179-largest-number](https://github.com/Kruthin-JA/DAA/tree/master/0179-largest-number) |
 ## String Matching
 |  |
 | ------- |
@@ -68,4 +70,12 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Kruthin-JA/DAA/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Kruthin-JA/DAA/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/Kruthin-JA/DAA/tree/master/0179-largest-number) |
+## Sorting
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/Kruthin-JA/DAA/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
