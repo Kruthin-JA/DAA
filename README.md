@@ -35,6 +35,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Kruthin-JA/DAA/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/Kruthin-JA/DAA/tree/master/0010-regular-expression-matching) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kruthin-JA/DAA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## String Matching
 |  |
@@ -44,6 +45,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Kruthin-JA/DAA/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/Kruthin-JA/DAA/tree/master/0010-regular-expression-matching) |
 ## Binary Search
 |  |
 | ------- |
@@ -52,4 +54,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kruthin-JA/DAA/tree/master/0004-median-of-two-sorted-arrays) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/Kruthin-JA/DAA/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
