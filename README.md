@@ -60,4 +60,9 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Kruthin-JA/DAA/tree/master/0010-regular-expression-matching) |
+| [0021-merge-two-sorted-lists](https://github.com/Kruthin-JA/DAA/tree/master/0021-merge-two-sorted-lists) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Kruthin-JA/DAA/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
