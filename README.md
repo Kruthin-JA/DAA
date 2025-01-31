@@ -6,6 +6,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kruthin-JA/DAA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0051-n-queens](https://github.com/Kruthin-JA/DAA/tree/master/0051-n-queens) |
+| [0162-find-peak-element](https://github.com/Kruthin-JA/DAA/tree/master/0162-find-peak-element) |
 ## Backtracking
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kruthin-JA/DAA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0162-find-peak-element](https://github.com/Kruthin-JA/DAA/tree/master/0162-find-peak-element) |
 ## Divide and Conquer
 |  |
 | ------- |
