@@ -55,6 +55,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kruthin-JA/DAA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/Kruthin-JA/DAA/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/Kruthin-JA/DAA/tree/master/0162-find-peak-element) |
 ## Divide and Conquer
 |  |
@@ -78,4 +79,8 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Kruthin-JA/DAA/tree/master/0179-largest-number) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Kruthin-JA/DAA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
