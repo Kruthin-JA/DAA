@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Kruthin-JA/DAA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0051-n-queens](https://github.com/Kruthin-JA/DAA/tree/master/0051-n-queens) |
 ## Backtracking
 |  |
@@ -43,4 +44,12 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Kruthin-JA/DAA/tree/master/0005-longest-palindromic-substring) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Kruthin-JA/DAA/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Kruthin-JA/DAA/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
